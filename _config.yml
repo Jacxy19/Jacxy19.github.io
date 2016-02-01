@@ -1,12 +1,12 @@
 # Site settings
-title:
+title: Elsa Escalante Serrato
 email:
-description: > # this means to ignore newlines until "baseurl:"
+description: Soy Elsita y Me huele la cola > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username:jacxyees
+github_username: Jacxy19
 
 # Build settings
 markdown: kramdown
